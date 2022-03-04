@@ -36,14 +36,13 @@ By the end of the course, students will be able to:
 
 - Use [Github](https://github.com) for creating a reproducible research document.
      
-     -- My Github Username is: *gkim44*
+     -- My GitHub Username is: *gkim44*
      
 - Obtain, clean, transform, and visualize a dataset using the R programming language.
 - Interpret and predict dataset trends using statistical inference and models.
 - Critically examine and interpret statistical claims reported in mass media.
 
 # Including Code
-
 ## Running R code in a code chunk
 
 ```{r}
@@ -61,5 +60,4 @@ ggplot2::qplot(data = iris, x = Sepal.Length, y = Sepal.Width)
 
 
 
-test  
 
